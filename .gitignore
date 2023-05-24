@@ -1,0 +1,9 @@
+# Project exclude paths
+
+# Maven target folder
+/platform-system/target/
+
+# IDE generated files
+.idea/
+.classpath
+.project
